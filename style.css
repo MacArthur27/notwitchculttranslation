@@ -13,6 +13,10 @@ h1 {
   text-align: center
 }
 
+img {
+  width: 100%
+}
+
 h2 {
   color: #796BAE;
   font-family: 'Lora'
@@ -53,7 +57,7 @@ p {
 }
 
 .main-menu li{
-    display: inline-block;
+    display: block;
     margin: 0;
     padding: 0;
     float: center; 
