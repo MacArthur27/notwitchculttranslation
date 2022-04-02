@@ -8,14 +8,14 @@ body {
 h1 {
   margin: 0;
   color: #000000;
-  font-family: 'Sitka Display';
+  font-family: 'Lora';
   font-size: 220%;
   text-align: center
 }
 
 h2 {
   color: #796BAE;
-  font-family: 'Sitka Display'
+  font-family: 'Lora'
 }
 
 h3 {
@@ -28,7 +28,7 @@ a, a:visited, a:active {
 }
 
 p {
-  font-family: 'Sitka Display'
+  font-family: 'Lora'
 }
 
 .leftimg {
